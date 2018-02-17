@@ -41,4 +41,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="browse_theme_walls">Theme wallpapers</string>
     <string name="browse_theme_header">Theme headers</string>
     <string name="pick_header">Select headers</string>
+    <string name="download_header_notice">Downloading header</string>
+    <string name="download_header_failed_notice">Downloading header failed</string>
+    <string name="header_location_local">Local</string>
+    <string name="header_location_online">Online</string>
 </resources>
